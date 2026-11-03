@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Electrical Power Engineering Student | 🛠️ **Engineering Tools:** AutoCAD, MATLAB, and Power Electronics Circuit Simulation.<br><br>🎨 **Creative Skills:** Proficient in Adobe Photoshop, Adobe After Effects, and Video Editing Software.<br><br>💻 **Programming & Tech:** Learning Programming, Reverse Engineering, and exploring AI-powered Vibe Coding.<br><br>🚀 Always learning, building projects, and expanding my technical and creative skills.
+🎓 Electrical Power Engineering Student | 
+🛠️ **Engineering Tools:** AutoCAD, MATLAB, and Power Electronics Circuit Simulation.<br><br>🎨 **Creative Skills:** Proficient in Adobe Photoshop, Adobe After Effects, and Video Editing Software.<br><br>💻 **Programming & Tech:** Learning Programming, Reverse Engineering, and exploring AI-powered Vibe Coding.<br><br>🚀 Always learning, building projects, and expanding my technical and creative skills.
 
 
 # 💻 Tech Stack:
